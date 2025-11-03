@@ -13,3 +13,35 @@ header {
     color: grey;
     font-size: 15px;
 }
+
+.didascalie {
+    font-size: 11px;
+}
+
+/**TABELLA**/
+
+.prima-riga-tabella {
+    background-color: dodgerblue;
+    color: white;
+    
+}
+
+.riga-3 {
+    text-align: center;
+}
+
+
+.seconda-riga-tabella {
+    background-color: skyblue;
+}
+
+.quarta-riga-tabella {
+    background-color: skyblue;
+}
+
+.tabella-intera {
+    border-collapse: collapse;
+    width: 55%;
+    text-align: justify;
+
+}
