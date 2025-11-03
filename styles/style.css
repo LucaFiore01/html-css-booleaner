@@ -1,7 +1,7 @@
 header {
-     background-image: url("../img/pattern.png");
- background-color: dodgerblue;
- background-size: 160px;
+    background-image: url("../img/pattern.png");
+    background-color: dodgerblue;
+    background-size: 160px;
 }
 
 .immagine-logo {
@@ -23,7 +23,7 @@ header {
 .prima-riga-tabella {
     background-color: dodgerblue;
     color: white;
-    
+
 }
 
 .riga-3 {
@@ -44,4 +44,41 @@ header {
     width: 55%;
     text-align: justify;
 
+}
+
+/**FOOTER**/
+
+.testo-footer {
+    color: gray;
+    font-weight: 900;
+}
+
+.txt-footer-1 {
+    font-weight: 900;
+    color: white;
+}
+
+
+
+.txt-footer-2 {
+    font-weight: 900;
+    color: white;
+}
+
+.container {
+    position: relative;
+}
+
+.txt-footer-1 {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-size: 20px;
+}
+ 
+.txt-footer-2 {
+        position: absolute;
+    top: 227px;
+    left: 12px;
+    font-size: 20px;
 }
