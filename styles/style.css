@@ -1,0 +1,15 @@
+header {
+     background-image: url("../img/pattern.png");
+ background-color: dodgerblue;
+ background-size: 160px;
+}
+
+.immagine-logo {
+    width: 150px;
+}
+
+.the-booleaner {
+
+    color: grey;
+    font-size: 15px;
+}
